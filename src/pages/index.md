@@ -5,7 +5,7 @@ sections:
     title: 'Welcome to Me-sa Make Lightsaber '
     actions:
       - label: Learn More
-        url: /st
+        url: /about
         style: primary
     align: left
     image: images/hero.svg
