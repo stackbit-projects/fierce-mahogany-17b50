@@ -21,6 +21,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+    subtitle: 'Your personal unique lightsaber '
   - type: blog_feed_section
     title: Me-sa Make Lightsaber
     show_recent: true
