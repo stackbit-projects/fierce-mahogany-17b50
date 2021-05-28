@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: blog_feed_section
-    title: What's New
+    title: Me-sa Make Lightsaber
     show_recent: true
     recent_count: 3
   - type: cta_section
