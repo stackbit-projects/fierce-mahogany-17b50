@@ -21,7 +21,9 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-    subtitle: 'Your personal unique lightsaber '
+    subtitle: >-
+      Your personal unique lightsaber to join the Journey of The Force as the
+      time of Long Ago meets the Here and Now
   - type: blog_feed_section
     title: Me-sa Make Lightsaber
     show_recent: true
